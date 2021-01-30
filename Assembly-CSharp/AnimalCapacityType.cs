@@ -1,0 +1,20 @@
+﻿using System;
+
+// Token: 0x020000AD RID: 173
+public enum AnimalCapacityType
+{
+	// Token: 0x0400078E RID: 1934
+	ANY,
+	// Token: 0x0400078F RID: 1935
+	MIXED,
+	// Token: 0x04000790 RID: 1936
+	MIXED_ONE_EACH,
+	// Token: 0x04000791 RID: 1937
+	SHEEP,
+	// Token: 0x04000792 RID: 1938
+	WILDBOAR,
+	// Token: 0x04000793 RID: 1939
+	CATTLE,
+	// Token: 0x04000794 RID: 1940
+	SHEEP_AND_CATTLE
+}

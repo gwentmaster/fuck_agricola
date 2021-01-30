@@ -1,0 +1,18 @@
+﻿using System;
+
+// Token: 0x02000040 RID: 64
+public enum EPopups
+{
+	// Token: 0x040002AF RID: 687
+	NONE,
+	// Token: 0x040002B0 RID: 688
+	OPTION_SELECTION,
+	// Token: 0x040002B1 RID: 689
+	SCORE_OVERVIEW,
+	// Token: 0x040002B2 RID: 690
+	ANNOUNCE_ROUND,
+	// Token: 0x040002B3 RID: 691
+	CONFIRM,
+	// Token: 0x040002B4 RID: 692
+	COUNT
+}

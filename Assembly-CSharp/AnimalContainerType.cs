@@ -1,0 +1,20 @@
+﻿using System;
+
+// Token: 0x020000AC RID: 172
+public enum AnimalContainerType
+{
+	// Token: 0x04000786 RID: 1926
+	INVALID,
+	// Token: 0x04000787 RID: 1927
+	ROOM,
+	// Token: 0x04000788 RID: 1928
+	IMPROVEMENT,
+	// Token: 0x04000789 RID: 1929
+	STABLE,
+	// Token: 0x0400078A RID: 1930
+	PASTURE,
+	// Token: 0x0400078B RID: 1931
+	UNUSEDSPACE,
+	// Token: 0x0400078C RID: 1932
+	FIELD
+}
